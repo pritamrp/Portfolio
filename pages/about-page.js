@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Layout from '../components/layout-component.js';
-import styles from '../styles/About.module.css';
+import styles from '../styles/about-css-module.css';
 
 export default function About() {
   return (
