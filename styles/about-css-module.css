@@ -1,0 +1,38 @@
+.aboutContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.profilePicture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.aboutContainer h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.aboutContainer h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.aboutContainer p, .aboutContainer ul {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.resumeButton {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.5rem 1rem;
+  background-color: #0070f3;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
