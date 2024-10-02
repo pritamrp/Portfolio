@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../styles/ProjectCard.module.css';
+import styles from '../styles/project-card-css-module.css';
 
 const ProjectCard = ({ title, description, technologies, imageUrl }) => {
   return (
