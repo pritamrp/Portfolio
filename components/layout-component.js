@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Header from './Header';
 import Footer from './Footer';
-import styles from '../styles/Layout.module.css';
+import styles from '../styles/layout-css-module.css';
 
 const Layout = ({ children }) => {
   const [darkMode, setDarkMode] = useState(false);
