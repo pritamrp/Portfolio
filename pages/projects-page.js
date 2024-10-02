@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import Layout from '../components/Layout';
 import ProjectCard from '../components/ProjectCard';
-import styles from '../styles/Projects.module.css';
+import styles from '../styles/projects-css-module.css';
 
 const projectsData = [
   {
