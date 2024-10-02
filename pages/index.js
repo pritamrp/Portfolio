@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Layout from '../components/Layout';
 import ProjectCard from '../components/ProjectCard';
 import SkillsChart from '../components/SkillsChart';
-import styles from '../styles/Home.module.css';
+import styles from '../styles/home-css-module.css';
 
 export default function Home() {
   return (
