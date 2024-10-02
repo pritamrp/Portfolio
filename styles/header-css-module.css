@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #f8f9fa;
+}
+
+.logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.navList {
+  display: flex;
+  list-style-type: none;
+}
+
+.navList li {
+  margin-left: 1rem;
+}
+
+.navList a {
+  text-decoration: none;
+  color: #333;
+}
+
+.darkModeToggle {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}

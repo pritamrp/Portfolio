@@ -1,0 +1,29 @@
+.hero {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.introduction {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.profilePicture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 2rem;
+}
+
+.skills, .projects {
+  margin-top: 3rem;
+}
+
+.projectGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
