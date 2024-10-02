@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import Layout from '../components/Layout';
 import ContactForm from '../components/ContactForm';
-import styles from '../styles/Contact.module.css';
+import styles from '../styles/contact-css-module.css';
 
 export default function Contact() {
   return (
