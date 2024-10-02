@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import styles from '../styles/header-css-module.css';
+import styles from '../styles/header.module.css';
 
 const Header = ({ darkMode, toggleDarkMode }) => {
   return (
